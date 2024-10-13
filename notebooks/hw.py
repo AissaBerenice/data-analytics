@@ -1,4 +1,3 @@
-Here is the updated Python code with the matrix of equations added at the start:
 
 import numpy as np
 
@@ -41,5 +40,3 @@ if solution is not None:
     print(f"Solution: {solution} after {iterations} iterations")
 else:
     print("Maximum iterations exceeded")
-
-When you run this code, it will solve the given system of equations using the Jacobi iterative method and print the solution.
